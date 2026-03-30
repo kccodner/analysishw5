@@ -1,6 +1,7 @@
 # Repository analysishw5 created for HWRS564B homework 5.
+Use Python version 3.14.3
 
-FILE DESCRIPTIONS
+FILE DESCRIPTIONS:
 
 .gitignore [specifies which files and directories to ignore]
 
